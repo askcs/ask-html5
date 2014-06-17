@@ -1,0 +1,1 @@
+A HTML5 Boilerplate template running on Jade and SASS. Very much suitable for any website-kinda projects.
